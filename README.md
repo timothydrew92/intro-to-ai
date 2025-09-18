@@ -21,7 +21,7 @@ pnpm install
 Create a `.env.local` file in the root of the project and add your OpenAI API key:
 
 ```
-NEXT_PUBLIC_OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_API_KEY=your_openai_api_key_here
 ```
 
 3. **Run the development server**
