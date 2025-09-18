@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "framer-motion": "^12.23.15",
+    "jspdf": "^3.0.3",
     "next": "15.5.3",
     "openai": "^5.21.0",
     "react": "19.1.0",
